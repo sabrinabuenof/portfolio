@@ -17,6 +17,9 @@ body {
   color: rgb(252, 148, 110);
 }
 
+.nome-destaque:hover{
+  color: rgb(252, 148, 110);
+}
 .apresentacao {
   margin: 10% 15%;
   display: flex;
@@ -66,4 +69,12 @@ body {
   padding: 21.5px 0;
   color: #ffff;
   font-family: "Montserrat", sans-serif;
+}
+
+.apresentacao__links__link:hover {
+  background-color: #333232;
+}
+
+.rodape {
+
 }

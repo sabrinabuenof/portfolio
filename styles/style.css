@@ -10,8 +10,6 @@
   --fonte-secundaria: "Montserrat", sans-serif; 
 }
 
-
-
 * {
   margin: 0;
   padding: 0;
@@ -24,7 +22,7 @@ body {
 }
 
 .cabecalho {
-  padding: 2% 0 0 15% ;
+  padding: 2% 0% 0% 15% ;
 }
 
 .cabecalho__menu {
@@ -93,6 +91,7 @@ body {
 }
 
 .apresentacao__links__link {
+  
   border: 2px solid var(--cor-terciaria);
   text-decoration: none;
   width: 300px;

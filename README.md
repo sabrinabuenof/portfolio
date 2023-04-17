@@ -1,3 +1,19 @@
-# Formação Front End
 
-Repositório de todos os arquivos e projetos feitos através da formação Front End - Alura.
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+
+![image]()
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Joana Santos
+
+### Linkedin: https://www.linkedin.com/school/aluracursos/
+

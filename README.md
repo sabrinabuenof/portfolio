@@ -1,7 +1,7 @@
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](imagem6.png)
+![image](https://raw.githubusercontent.com/sabrinabuenof/portfolio/main/imagens/imagem6.jpg)
 
 ## Ferramentas utilizadas:
 

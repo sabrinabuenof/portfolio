@@ -1,7 +1,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image]()
+![image](imagem6.png)
 
 ## Ferramentas utilizadas:
 
@@ -13,7 +13,7 @@
 
 ## Feito por:
 
-### Joana Santos
+### Sabrina Bueno
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/sabrina-bueno-7630b221b/
 

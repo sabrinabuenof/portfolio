@@ -22,7 +22,7 @@ body {
 }
 
 .cabecalho {
-  padding: 2% 0% 0% 15% ;
+  padding: 2% 0% 0% 15%;
 }
 
 .cabecalho__menu {
@@ -118,4 +118,25 @@ body {
   font-family: var(--fonte-secundaria);
   font-size: 0.75rem;
   font-weight: 200;
+}
+
+@media (max-width: 1200px) {
+  .cabecalho{
+    padding: 10%;
+  }
+
+  .cabecalho__menu {
+    justify-content: center;
+  }
+
+  .apresentacao {
+    flex-direction: column-reverse;
+    padding: 5%;
+  }
+
+  .apresentacao__conteudo {
+    width: auto;
+  }
+
+
 }

@@ -17,3 +17,7 @@
 
 ### Linkedin: https://www.linkedin.com/in/sabrina-bueno-7630b221b/
 
+## Acesse o site aqui: 
+
+### https://sabrinabuenof.github.io/portfolio/
+

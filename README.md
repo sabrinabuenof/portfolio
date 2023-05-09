@@ -1,6 +1,8 @@
 
 # Olá, Bem vindo ao meu projeto de portfólio.
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 ![image](https://raw.githubusercontent.com/sabrinabuenof/portfolio/main/imagens/imagem6.jpg)
 
 ## Ferramentas utilizadas:
@@ -10,6 +12,8 @@
 * CSS
 
 * Flex-box
+
+
 
 ## Feito por:
 

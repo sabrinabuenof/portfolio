@@ -19,9 +19,14 @@ body {
     color: #159A9C;
 }
 
+.imagem {
+    width: 400px;
+    margin-left: 20px; 
+}
+
 
 .apresentacao {
-    margin: 10%;
+    margin: 10% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -29,6 +34,9 @@ body {
 
 .apresentacao__conteudo {
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .apresentacao__conteudo__titulo {
@@ -46,4 +54,18 @@ body {
 .apresentacao__links {
     display: flex;
     justify-content: space-between;
+}
+
+.apresentacao__links__link {
+    background-color: #159A9C;
+    width: 200px;
+    text-align: center;
+    font-weight: 600;
+    border-radius: 16px;
+    font-size: 20px;
+    padding: 20px 0;
+    text-decoration: none;
+    color: #002333;
+    font-family: "Poppins", sans-serif;
+
 }

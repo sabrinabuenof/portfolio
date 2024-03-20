@@ -101,7 +101,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 16px;
-    border: 2px solid var(--cor-terciarias) ;
+    border: 2px solid var(--cor-terciaria) ;
     width: 50%;
     text-align: center;
     font-weight: 600;

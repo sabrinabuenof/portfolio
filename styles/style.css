@@ -98,11 +98,10 @@ body {
 
 
 .apresentacao__links__navegacao {
-    /* background-color: #159A9C; */
     display: flex;
     justify-content: center;
     gap: 16px;
-    border: 2px solid var(--cor-terciaria) ;
+    border: 2px solid var(--cor-terciarias) ;
     width: 50%;
     text-align: center;
     font-weight: 600;
